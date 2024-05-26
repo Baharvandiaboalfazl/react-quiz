@@ -1,31 +1,31 @@
 {
   "questions": [
     {
-      "question": "کدام محبوب ترین فریم ورک جاوا اسکریپت است؟",
+      "question": "Which is the most popular JavaScript framework?",
       "options": ["Angular", "React", "Svelte", "Vue"],
       "correctOption": 1,
       "points": 10
     },
     {
-      "question": "کدام شرکت ریکت را اختراع کرد؟",
+      "question": "Which company invented React?",
       "options": ["Google", "Apple", "Netflix", "Facebook"],
       "correctOption": 3,
       "points": 10
     },
     {
-      "question": "بلوک اصلی سازنده برنامه های ریکت چیست؟",
+      "question": "What's the fundamental building block of React apps?",
       "options": ["Components", "Blocks", "Elements", "Effects"],
       "correctOption": 0,
       "points": 10
     },
     {
-      "question": "نام سینتکسی که برای توصیف رابط کاربری در اجزای ریکت استفاده می کنیم چیست؟",
+      "question": "What's the name of the syntax we use to describe the UI in React components?",
       "options": ["FBJ", "Babel", "JSX", "ES2015"],
       "correctOption": 2,
       "points": 10
     },
     {
-      "question": "چگونه داده ها به طور طبیعی در برنامه های ریکت جریان دارند؟",
+      "question": "How does data flow naturally in React apps?",
       "options": [
         "From parents to children",
         "From children to parents",
